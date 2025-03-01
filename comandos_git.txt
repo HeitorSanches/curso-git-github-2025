@@ -1,12 +1,12 @@
-git init. -> cria um repo git na pasta atual
-git status -> mostra o status do trabalho
-git add -> adiciona arquivo para ser comitado
+git init.    -> cria um repo git na pasta atual
+git status   -> mostra o status do trabalho
+git add      -> adiciona arquivo para ser comitado
 git commit - m "msg" -> faz o commit do que estava pra ser comitado
 git log -> mostra todos o histórico de commit
 
 ## Fluxo de Trabalho
 1. Criar o diretório
-2. Iniciar o git dentro do diretório criado ( git init)
+2. Iniciar o git dentro do diretório (pasta) criado ( git init)
 3. edita ou cria arquivos
 4. git status
 5. git add nome arquivo
